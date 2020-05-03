@@ -17,4 +17,4 @@
 
 ## Thank You
 
-![](pictures/Screenshot (30).png)
+![](pictures/Screenshot(30).png)
