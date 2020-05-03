@@ -13,3 +13,5 @@
 ## 5. Then by using wamp server, you can explore the project by going to pro-registration.php.
 
 ## Thank You
+
+![](pictures/Screenshot (30).png)
