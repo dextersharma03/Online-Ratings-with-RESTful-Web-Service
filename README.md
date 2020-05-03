@@ -3,7 +3,7 @@
 
 # Instructions for the project:
 
-## PLEASE NAME YOUR ALIAS AS pro-dreamteam.
+## PLEASE NAME YOUR ALIAS AS pro-dreamteam in wampserver's Apache Alias.
 
 ## 1. For Laravel to run: Go to laravel\LogoutPage, open cmd with current directory, enter php artisan serve (keep the cmd open and Composer is required)
 
